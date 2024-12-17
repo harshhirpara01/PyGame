@@ -1,7 +1,8 @@
 # PyGame
  snack water gun gaming code using python
+ stone paper scissor game using python
 
-# Author
+# Author/developer
  harsh hirpara
 
  # language 
